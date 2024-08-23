@@ -11,9 +11,9 @@
 
 ## Live Demo (Deployed on GitHub Pages) 🚀
 
-[![GitHub Status](https://github.com/dhiaashalabi/digitalbusinesscard/actions/workflows/static.yml/badge.svg)](https://dhiaashalabi.github.io/digitalbusinesscard/)
+[![GitHub Status](https://github.com/dhiashalabi/digitalbusinesscard/actions/workflows/static.yml/badge.svg)](https://dhiashalabi.github.io/digitalbusinesscard/)
 
-[Live Demo Link](https://dhiaashalabi.github.io/digitalbusinesscard/)
+[Live Demo Link](https://dhiashalabi.github.io/digitalbusinesscard/)
 
 ### Setup
 
@@ -22,7 +22,7 @@
 - Run the following command:
 
 ```
-$ git clone https://github.com/dhiaashalabi/digitalbusinesscard.git
+$ git clone https://github.com/dhiashalabi/digitalbusinesscard.git
 ```
 
 - Once finished you should see a new folder called **digitalbusinesscard** folder in your current directory.
@@ -39,11 +39,11 @@ $ npm install
 
 ## Authors
 
-👤 **Dhiaa Shalabi ([dhiaashalabi](https://github.com/dhiaashalabi))**
+👤 **Dhiaa Shalabi ([dhiashalabi](https://github.com/dhiashalabi))**
 
-- GitHub: [dhiaashalabi](https://github.com/dhiaashalabi)
-- Twitter: [Dhiaa Shalabi](https://twitter.com/dhiaashalabi)
-- LinkedIn: [Dhiaa Shalabi](hhttps://www.linkedin.com/in/dhiaashalabi/)
+- GitHub: [dhiashalabi](https://github.com/dhiashalabi)
+- Twitter: [Dhiaa Shalabi](https://twitter.com/dhiashalabi)
+- LinkedIn: [Dhiaa Shalabi](hhttps://www.linkedin.com/in/dhiashalabi/)
 
 ## Show your support
 
